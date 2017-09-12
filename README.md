@@ -124,6 +124,6 @@
     - Restart ssh  `sudo service ssh restart`
     - Now you are only able to login using `ssh grader@35.158.152.130 -p 2200  -i ~/.ssh/linuxconfiguration`
 
-    ## Restart Apache
+  ## Restart Apache
     - `sudo service apache2 restart`
 
