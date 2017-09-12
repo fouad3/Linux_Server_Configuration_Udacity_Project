@@ -1,8 +1,8 @@
 # Linux_Server_Configuration_Udacity_Project
 
 ###  Description
- Linux server configuration
-
+  baseline installation of a Linux server and prepare it to host item catalogue web application.
+  
 - IP address: 35.158.152.130
 
 - Accessible SSH port: 2200
