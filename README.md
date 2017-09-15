@@ -126,4 +126,10 @@
 
   ## Restart Apache
     - `sudo service apache2 restart`
+### Resources
+* [Getting Started with Amazon Lightsail](https://linuxacademy.com/howtoguides/posts/show/topic/12662-getting-started-with-lightsail-a-simple-vps-solution-from-aws)
+* [mod_wsgi documentation](https://modwsgi.readthedocs.io/en/develop/)
+* [UFW with Fail2ban](https://askubuntu.com/questions/54771/potential-ufw-and-fail2ban-conflicts)
+* [Fix locale issue](https://askubuntu.com/questions/162391/how-do-i-fix-my-locale-issue)
+* [Ask Ubuntu](https://askubuntu.com/)
 
