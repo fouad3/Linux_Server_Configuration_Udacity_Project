@@ -1,7 +1,9 @@
 # Linux_Server_Configuration_Udacity_Project
 
 ###  Description
-  baseline installation of a Linux server and prepare it to host item catalogue web application.
+  Preparing baseline installation of a Linux server to host item catalogue project, this project is a part of the Udacity's [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
+
+
   
 - IP address: 35.158.152.130
 
